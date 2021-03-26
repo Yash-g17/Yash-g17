@@ -32,11 +32,10 @@
 
 ### 📫 &nbsp; How to reach me:
 
-
-<a href="https://www.linkedin.com/in/yash-g17/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:Yash.g17@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/Yash.g17"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
+<p align="left">
+<a href="https://linkedin.com/in/yash gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/yash.g17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yash.g17" height="30" width="40" /></a>
+</p>
 <!--
 Here are some ideas to get you started:
 
