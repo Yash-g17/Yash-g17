@@ -27,13 +27,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![node js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 
 
 ### 📫 &nbsp; How to reach me:
 
 <p align="left">
-<a href="https://linkedin.com/in/yash gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/yash.g17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yash.g17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-g17/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash gupta" /></a>
+<a href="https://instagram.com/yash.g17" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yash.g17"/></a>
+  
 </p>
 <!--
 Here are some ideas to get you started:
