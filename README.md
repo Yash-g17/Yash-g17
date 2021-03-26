@@ -1,7 +1,7 @@
 <!--![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)-->
 
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Yash Gupta. I Love ❤️ programming and currently studying at Bits Pilani Goa Campus. </p>
+<p align="center"> I am Yash Gupta. I ❤️ programming and currently studying at Bits Pilani Goa Campus. </p>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer and a student at Bits Pilani Goa Campus, currently working on automating small businesses.\
