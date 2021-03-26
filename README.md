@@ -32,14 +32,14 @@
 ![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-g17/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash gupta" /></a>
 <a href="https://instagram.com/yash.g17" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yash.g17"/></a>
-  
+<a href="mailto:Yash.g17@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="yash.g17"/></a>  
 </p>
 <!--
 Here are some ideas to get you started:
