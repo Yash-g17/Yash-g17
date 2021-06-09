@@ -7,7 +7,7 @@
 💡 &nbsp; I'm a software developer and a student at Bits Pilani Goa Campus, currently working on automating small businesses.\
 🎓 &nbsp;I'm currently studying Electronics and Instrumentation Engineering along with MSc in Physics at Bits Pilani, Goa (2019-2024).\
 <!--🌱 &nbsp;I'm on track of learning about .\-->
-✍️ &nbsp;In my free time, I like to sing ,play football and explore open source projects.\
+✍️ &nbsp;In my free time, I like to sing ,play chess and explore open source projects.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at Yash.g17@outlook.com. I'll try to respond as soon as possible!\
 <!--📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing) for more details about work experience.-->
