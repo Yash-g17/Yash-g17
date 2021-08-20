@@ -4,7 +4,7 @@
 <p align="center"> I am Yash Gupta. I ❤️ programming and currently studying at Bits Pilani Goa Campus. </p>
 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and a student at Bits Pilani Goa Campus, currently working on automating small businesses.\
+💡 &nbsp; I'm a software developer and a student at Bits Pilani Goa Campus, currently working on open source developement.\
 🎓 &nbsp;I'm currently studying Electronics and Instrumentation Engineering along with MSc in Physics at Bits Pilani, Goa (2019-2024).
 <!--🌱 &nbsp;I'm on track of learning about .\-->
 ✍️ &nbsp;In my free time, I like to sing ,play chess and explore open source projects.\
