@@ -2,14 +2,14 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> I am Yash Gupta. I ❤️ programming and currently studying at Bits Pilani Goa Campus. </p>
-### 👨🏻‍💻 &nbsp;About Me
+👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer and a student at Bits Pilani Goa Campus, currently working on automating small businesses.\
-🎓 &nbsp;I'm currently studying Electronics and Instrumentation Engineering along with MSc in Physics at Bits Pilani, Goa (2019-2024).\
+🎓 &nbsp;I'm currently studying Electronics and Instrumentation Engineering along with MSc in Physics at Bits Pilani, Goa (2019-2024).
 <!--🌱 &nbsp;I'm on track of learning about .\-->
 ✍️ &nbsp;In my free time, I like to sing ,play chess and explore open source projects.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at Yash.g17@outlook.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at yashg.bits@gmail.com. I'll try to respond as soon as possible!
 <!--📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing) for more details about work experience.-->
 
 
@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-g17/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash gupta" /></a>
 <a href="https://instagram.com/yash.g17" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yash.g17"/></a>
-<a href="mailto:Yash.g17@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="yash.g17"/></a>  
+<a href="mailto:Yashg.bits@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yash.g17"/></a>  
 </p>
 <!--
 Here are some ideas to get you started:
