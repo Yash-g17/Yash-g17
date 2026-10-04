@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 
 <p align="center">
-  Senior Applied AI Scientist • AI/ML Engineer • Software Builder
+  Applied AI Scientist • AI/ML Engineer • Software Builder
 </p>
 
 <p align="center">
