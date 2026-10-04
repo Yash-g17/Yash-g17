@@ -1,59 +1,91 @@
-<!--![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)-->
+<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Yash Gupta. I ❤️ programming and currently studying at Bits Pilani Goa Campus. </p>
-👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I'm a software developer and a student at Bits Pilani Goa Campus, currently working on open source developement.\
-🎓 &nbsp;I'm currently studying Electronics and Instrumentation Engineering along with MSc in Physics at Bits Pilani, Goa (2019-2024).
-<!--🌱 &nbsp;I'm on track of learning about .\-->
-✍️ &nbsp;In my free time, I like to play chess and explore open source projects.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at yashg.bits@gmail.com. I'll try to respond as soon as possible!
-<!--📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing) for more details about work experience.-->
-
-
-### 🛠 &nbsp;Tech Stack
-
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![node js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-### 📫 &nbsp; How to reach me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-g17/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash gupta" /></a>
-<a href="https://instagram.com/yash.g17" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yash.g17"/></a>
-<a href="mailto:Yashg.bits@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yash.g17"/></a>  
+<p align="center">
+  Senior Applied AI Scientist • AI/ML Engineer • Software Builder
 </p>
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building production AI systems across Document Intelligence, LLM Agents, Computer Vision and Generative AI.
+</p>
+
+---
+
+### 👨🏻‍💻 About Me
+
+🧠 My work spans **Document Intelligence, LLM agents, multimodal AI, computer vision, RAG, and production ML infrastructure**.
+
+🤖 Outside work, I experiment extensively with **local LLMs, model serving, quantization, inference optimization, and generative AI**.
+
+🛠️ I enjoy taking AI systems beyond notebooks — building APIs, inference infrastructure, observability, automation, and self-hosted systems.
+
+♟️ Outside programming, I enjoy chess and exploring open-source projects.
+
+✉️ Reach me at **yashg.bits@gmail.com**
 
 
+### 🧪 Local AI Lab
 
+I regularly experiment with running modern AI models locally on consumer hardware, including:
 
+- LLM inference and quantization
+- GGUF models
+- Ollama & llama.cpp ecosystems
+- Vision-Language Models
+- Image generation models
+- GPU/VRAM optimization
+- Context-length vs throughput optimization
+- Concurrent inference
+- Model serving and API resiliency
+- Self-hosted AI infrastructure
 
+---
 
+## 🛠️ Tech Stack
 
+### AI / Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)&nbsp;
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**LLMs • RAG • Agentic AI • Computer Vision • NLP • Multimodal AI • Document Intelligence**
+
+### AI Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**LangGraph • Langfuse • Neo4j • Hugging Face • SageMaker • S3**
+
+### Software Engineering
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🔬 Current Interests
+
+- 🧠 Large Language Models & Small Language Models
+- 🤖 Agentic AI
+- 📄 Document Intelligence
+- 👁️ Vision-Language Models
+- 🔎 Retrieval-Augmented Generation
+- 🏠 Local & self-hosted AI
+- ⚡ LLM inference optimization
+- 🎨 Generative AI
+- 🐳 AI infrastructure & deployment
+- 🌐 Open source
+---
+
+<p align="center">
+  <i>Building AI systems that survive outside the notebook.</i>
+</p>
